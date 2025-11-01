@@ -1,1 +1,1 @@
-# contracts
+ClipX contracts for Proof of Post : 0xC96C37B030117FaB8B73F9bB35F3bB82e31999E9
